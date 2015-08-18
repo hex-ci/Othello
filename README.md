@@ -9,3 +9,8 @@
 使用 Visual Basic 6.0 打开工程文件构建。
 
 (已包含编译好的可执行文件)
+
+下载安装文件
+------------
+
+http://pan.baidu.com/s/1mgDyNDu
