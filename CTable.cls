@@ -436,10 +436,11 @@ Private Sub Class_Initialize()
             mvarTables(j, i) = T_NONE
         Next j
     Next i
-    mvarTables(3, 3) = T_BLACK
-    mvarTables(3, 4) = T_WHITE
-    mvarTables(4, 3) = T_WHITE
-    mvarTables(4, 4) = T_BLACK
+
+    mvarTables(3, 3) = T_WHITE
+    mvarTables(3, 4) = T_BLACK
+    mvarTables(4, 3) = T_BLACK
+    mvarTables(4, 4) = T_WHITE
 
     'mvarTables(3, 3) = T_BLACK
     'mvarTables(3, 4) = T_BLACK
