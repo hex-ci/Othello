@@ -18,4 +18,4 @@
 下载安装文件
 ------------
 
-http://pan.baidu.com/s/1mgDyNDu
+https://pan.baidu.com/s/18Ay5rZlOYLy5tSDa2vlDhA
