@@ -6,7 +6,7 @@
 截图预览
 --------
 
-![黑白棋.Net](https://cloud.githubusercontent.com/assets/13709/12188841/dededda6-b5f3-11e5-943a-88d38db86e86.png)
+![黑白棋.Net](https://raw.githubusercontent.com/hex-ci/Othello/master/othello.jpg)
 
 如何构建
 --------
